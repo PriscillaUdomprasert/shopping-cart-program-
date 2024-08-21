@@ -1,0 +1,5 @@
+Fender Stratocaster	699.5	20
+Gibson Les Paul	1199	30
+Gibson SG	2517	52
+Yamaha FG700S	489.99	38
+Washburn D10S	299.0	0
